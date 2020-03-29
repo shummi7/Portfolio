@@ -50,3 +50,6 @@ project_tab[2].addEventListener('click',function(e) {
 project_tab[3].addEventListener('click',function(e) {
     window.location.href = 'https://shummi7.github.io/Todo_List/';
 }, false);
+project_tab[4].addEventListener('click',function(e) {
+    window.location.href = 'https://smart-brain-face-rcgn.herokuapp.com/';
+}, false);
